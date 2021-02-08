@@ -1,21 +1,3 @@
-# https://edm-ghost-production.com/shop/page1/
-# https://www.edmghostproducer.com/buy-tracks/
-# https://theghostproduction.com/buy-ghost-produced-tracks/
-# https://houseoftracks.com/
-# https://yourghostproducers.com/shop/
-# https://edmwarriors.com/tracks
-# https://producr.com/
-# https://www.ghost-nation.com/all-tracks/
-# https://anonymoustracks.com/
-# https://www.ghostunderground.com/all-products/
-# https://ghostproducers.co/
-# https://www.ghostproducerspain.com/
-# https://ghostproduction.com/
-# https://ghostifyed.com/
-# https://beatgun.com/store/tracks
-# https://www.edmghostplanet.com/track-store/
-
-
 from bs4 import BeautifulSoup
 import requests 
 import os
